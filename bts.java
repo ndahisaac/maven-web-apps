@@ -1,2 +1,2 @@
-# Back to school 2021 
-# Ebay european clients
+# Back to school feature
+# Ebay European client 
