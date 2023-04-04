@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>JOINIT.COM- Home Page</title>
-<link href="images/log4.png" rel="icon">
+<link href="images/dev2" rel="icon">
 </head>
 </head>
 <body>
@@ -18,7 +18,7 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/log4.png" alt="" width="200">
+		<img src="images/dev1" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
 		JoinIT, 
