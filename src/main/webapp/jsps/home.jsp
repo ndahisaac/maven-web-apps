@@ -10,7 +10,7 @@ issac
 </head>
 </head>
 <body>
-<h1 align="center">JOINIT SOLUTIONS</h1>
+<h1 align="center">itech Digital  Solutions</h1>
 <h2 align="center"> Welcome TO JOINIT SOLUTIONS.
 	Special testimony and thanksgiving session coming up on Sunday June 30, 2022
 	JOINIT SOLUTIONS is a an ideal online training  platform for AWS DevOps, Plaform and Cloud Engineers and Devops Engineer. 
