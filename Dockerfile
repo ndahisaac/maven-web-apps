@@ -1,5 +1,10 @@
-FROM tomcat:8.0.20-jre8
-# Dummy text to test 
-# testing Github webhook is working
-# automation
-COPY target/*.war /usr/local/tomcat/webapps/maven-web-app.war
+FROM node:8
+
+WORKDIR /app/
+COPY . /app/
+
+RUN npm install
+
+EXPOSE 3000
+
+CMD ["npm","start"]
